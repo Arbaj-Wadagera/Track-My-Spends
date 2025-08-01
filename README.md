@@ -1,4 +1,4 @@
-# Track-My-Spends
+# Track-My-Spends Check_out_here    https://track-my-expenses-13z.web.app/ 
 Track My Expenses: A modern, full-featured web application designed to help users manage their personal finances with ease. Built with vanilla JavaScript and powered by Google Firebase, this single-page application provides a seamless and responsive user experience for tracking expenses, setting budgets, and gaining financial insights. The integration of the Gemini API offers users personalized financial advice based on their spending habits.
 
 Key Features Secure User Authentication: Full authentication system including user sign-up, login, logout, and password reset functionality, all handled securely by Firebase Authentication.
